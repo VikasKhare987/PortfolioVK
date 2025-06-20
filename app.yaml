@@ -3,6 +3,3 @@ entrypoint: java -jar target/portfolio-website-1.0.0.jar
 
 instance_class: F1
 
-# app.yaml
-runtime: java17
-instance_class: F1
