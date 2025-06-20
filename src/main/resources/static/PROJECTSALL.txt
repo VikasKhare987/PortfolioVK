@@ -1,0 +1,48 @@
+PROJECT – 01
+Title : Agriculture Information Management System (AIMS)
+Client : Maharashtra State Government
+Role : Application Developer
+Team Size : 6
+Environment : Java, J2EE, Spring, Hibernate.
+Description :
+Agriculture Information Management System (AIMS) is State government project. AIMS is a Maharashtra state Direct Benefit Transfer program. The main objective of Agriculture Information Management System (AIMS) is for Development of a State Farmers and double the income of state farmers. Farmers can Register and submit their application form online (For applying State and Centrally sponsored agriculture schemes) from anywhere, anytime. Uploading of supporting documents (such as 7/12 certificate, 8 A Certificate, copy of passbook of Aadhaar linked bank account, Invoice copy of purchase made… etc.,) for easy verification and transparency. Applicants will receive SMS and email alerts at various stages of application processing. Direct disbursal of benefits to the registered applicants Aadhaar linked Bank Account. Easy sanctioning of application process for Sanctioning Authority Creation of Role Based Unique Login ID and Password.
+
+PROJECT – 02
+Title : QAD technology stack transition
+Client : QAD
+Role : Software Engineer
+Team Size : 6
+Environment : Java, Springboot, Hibernate, MySQL
+Description :
+The QAD was our client. There they have old age technical stack which we have to convert into Java bases technology. On the different level the operations are took place here. Their main task is on Shipping website and involved in to change it into a user friendly technical stack. There, we used to perform daily task as per given by our team lead. Writing Junit cases, creating different layers like Entity, Service, Controller, Repository. Their old stack was progress4GL based which they have to convert it into JAVA based stack. In short It was stack Migration project.
+
+PROJECT – 03
+Title : HSBC Banking Domain
+Client : HSBC
+Role : Application Developer
+Team Size : 6
+Environment : Java, Springboot, Hibernate, MySQL
+Description :
+The HSBC bank is our client which is leading bank in the world and one of the most important client of LTIMindtree. HSBC India offers a range of financial products and services to both retail and corporate clients. These include banking accounts, credit cards, investment options, and digital banking services. HSBC also provides specialized services like innovation banking and global money transfers. On the different level the operations are took place here. All the banking operation like Account opening, maintaining, handling and other necessary operations are performed by this bank. As we were not assign to project, we used to perform daily mandatory training. 
+
+
+Personal Projects::
+1. Bank ATM GUI using Java, Springboot, MySQL, HTML, CSS, etc.
+2. E-CART development using Java, Springboot, Spring MVC, Hibernate, RESTFul Webservices,MySQL, HTML, CSS, JS, etc.
+3. Contact Management System using Java, Springboot, MySQL, HTML, CSS, etc.
+4. Blogger Application using Java, Springboot, Spring MVC, Hibernate, RESTFul Webservices,MySQL, HTML, CSS, JS, etc.
+5. All other remaining mini projects using Java, Springboot, Spring MVC, Hibernate, RESTFul Webservices,MySQL, HTML, CSS, JS, etc, stack.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
