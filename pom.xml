@@ -85,6 +85,9 @@
 			</plugin>
 
 		</plugins>
+	
+    <finalName>PortfolioVK</finalName>
+
 	</build>
 
 </project>
