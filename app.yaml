@@ -1,5 +1,5 @@
 runtime: java17
-entrypoint: java -jar target/portfolio-website-1.0.0.jar
+entrypoint: java -jar target/portfolio.jar
 
 instance_class: F1
 
@@ -11,4 +11,4 @@ services:
     startCommand: java -jar target/PortfolioVK.jar
     envVars:
       - key: JAVA_VERSION
-        value: 17
+        value: 17 
